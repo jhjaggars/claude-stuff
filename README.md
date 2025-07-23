@@ -5,3 +5,8 @@
 3. run work-issue.sh $gh_issue_number to start the workflow
 4. wait (do something else!) for assignment to the PR for manual review
 5. provide feedback / merge / close the PR
+
+# Dependencies
+
+- https://github.com/rizethereum/claude-code-requirements-builder
+- https://github.com/anoek/sandbox
